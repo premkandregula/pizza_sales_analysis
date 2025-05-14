@@ -103,5 +103,6 @@ Feel free to fork, contribute queries, or suggest new metrics!
 
 ## 🔗 Connect with Me
 
-[Visit my LinkedIn](www.linkedin.com/in/kandregula-prem-kumar-059642238)
+[LinkedIn](pizza_sales_analysis/docs/www.linkedin.com/in/kandregula-prem-kumar-059642238)
+
 
