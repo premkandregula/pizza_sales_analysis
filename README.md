@@ -103,6 +103,7 @@ Feel free to fork, contribute queries, or suggest new metrics!
 
 ## 🔗 Connect with Me
 
-[LinkedIn](www.linkedin.com/in/kandregula-prem-kumar-059642238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kandregula-prem-kumar-059642238)
+
 
 
